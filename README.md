@@ -10,3 +10,5 @@ CONCRETE_TOUR(Extends tour with additional parameters like price, nutrition type
 RESERVATION(all reservations of concrete_tour made by user)
 # Supporting tables
 
+# Database diagram
+![Database diagram structure] https://ibb.co/g3E09b
