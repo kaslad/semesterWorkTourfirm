@@ -11,4 +11,4 @@
 # Supporting tables
 
 # Database diagram
-![Database diagram structure] https://ibb.co/g3E09b
+![Database diagram structure] (https://ibb.co/g3E09b)
